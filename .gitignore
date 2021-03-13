@@ -1,0 +1,7 @@
+Homo_sapiens.GRCh38.103.gtf
+.DS_Store
+.Rapp.history
+.ipynb_checkpoints/
+tcga_luad
+tcga_luad_normal
+logs/
